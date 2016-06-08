@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:16.213581
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:45
 #+TITLE: 大乘廣五蘊論
 #+PROPERTY: CBETA_ID T31n1613
 #+PROPERTY: ID KR6n0095
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1613
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0095_T_000-0850c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0095_T_001-0850c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1613[cf.No.1612]¶
-
- 《大乘廣五蘊論》一卷¶
+No. 1613 [cf. No. 1612]¶
+《大乘廣五蘊論》一卷¶
 ¶
 安慧菩薩造¶
 大唐中天竺國三藏地婆訶羅¶
